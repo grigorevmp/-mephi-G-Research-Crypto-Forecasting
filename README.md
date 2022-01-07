@@ -12,10 +12,10 @@ _For submition Notebook will run on close data_
 
 # Our team
 
-* [Хисамутдинов Марат](https://github.com/marat1804)
-* [Григорьев Михаил](https://github.com/grigorevmp)
-* [Шарафутдинов Ренат](https://github.com/kciNik)
-* [Московчук Анастасия](https://github.com/moskovchuk)
+* [Khisamutdinov Marat](https://github.com/marat1804)
+* [Grigorev Mikhail](https://github.com/grigorevmp)
+* [Sharafutdinov Renat](https://github.com/kciNik)
+* [Moskovchuk Anastasiia](https://github.com/moskovchuk)
 
 # Content
 
