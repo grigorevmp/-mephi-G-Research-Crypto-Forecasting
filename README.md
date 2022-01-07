@@ -12,55 +12,55 @@ For submition Notebook will run on close data
 
 ## Models
 
-![0. NoML Model (0.99999)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/final-cheat.ipynb)
+[0. NoML Model (0.99999)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/final-cheat.ipynb)
 
-![1. LGBM estimators (0.7840)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/lgbm-max-estimators.ipynb)
+[1. LGBM estimators (0.7840)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/lgbm-max-estimators.ipynb)
 
-![2. XGBoost estimators (0.4023)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/xgboost-with-estimators.ipynb)
+[2. XGBoost estimators (0.4023)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/xgboost-with-estimators.ipynb)
 
-![3. XGBoost (0.0351)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/xgboost-regression-model.ipynb)
+[3. XGBoost (0.0351)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/xgboost-regression-model.ipynb)
 
-![4. LSTM (0.0037)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/final-lstm.ipynb)
+[4. LSTM (0.0037)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/final-lstm.ipynb)
 
-![5. CatBoost (0.0034)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/final-catboost.ipynb)
+[5. CatBoost (0.0034)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/final-catboost.ipynb)
 
-![6. SVR Regression (-0.0015)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/svrregressor.ipynb)
+[6. SVR Regression (-0.0015)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/svrregressor.ipynb)
 
-![7. Elastic Net (-0.0020)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/elasticnet.ipynb)
+[7. Elastic Net (-0.0020)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/elasticnet.ipynb)
 
-![8. Lasso (-0.0020)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/lasso.ipynb)
+[8. Lasso (-0.0020)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/lasso.ipynb)
 
-![9. Ridge (-0.0020)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/ridge.ipynb)
+[9. Ridge (-0.0020)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/ridge.ipynb)
 
-![10. SGD Regressor (-0.0056)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/sgdregressor.ipynb)
+[10. SGD Regressor (-0.0056)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/sgdregressor.ipynb)
 
-![11. Polynomial regression (-1)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/poly-regression.ipynb)
+[11. Polynomial regression (-1)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/poly-regression.ipynb)
 
 
 ## Visualisation
 
-![Time series visualisation and research](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/time-series-research-just-visual.ipynb)
+[Time series visualisation and research](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/time-series-research-just-visual.ipynb)
 
 
 ## Hyperparameters searching
 
-![1. Cat Boost](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/catboost-hyperparameters.ipynb)
+[1. Cat Boost](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/catboost-hyperparameters.ipynb)
 
-![2. ElasticNet](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/elasticnet-hyperparameters.ipynb)
+[2. ElasticNet](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/elasticnet-hyperparameters.ipynb)
 
-![3. GB Regressor](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/gradientboostingregressor-hyperparameters.ipynb)
+[3. GB Regressor](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/gradientboostingregressor-hyperparameters.ipynb)
 
-![4. Lasso](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/lasso-hyperparameters.ipynb)
+[4. Lasso](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/lasso-hyperparameters.ipynb)
 
-![5. LGBM](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/lgbm-hyperparameters.ipynb)
+[5. LGBM](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/lgbm-hyperparameters.ipynb)
 
-![6. Ridge](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/ridge-hyperparameters.ipynb)
+[6. Ridge](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/ridge-hyperparameters.ipynb)
 
-![7. SGD](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/sgdregressor-hyperparameters.ipynb)
+[7. SGD](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/sgdregressor-hyperparameters.ipynb)
 
-![8. SVR](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/svr-hyperparameters.ipynb)
+[8. SVR](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/svr-hyperparameters.ipynb)
 
-![9. XGBoost](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/xgboost-hyperparameters.ipynb)
+[9. XGBoost](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/xgboost-hyperparameters.ipynb)
 
 
 # Best score
