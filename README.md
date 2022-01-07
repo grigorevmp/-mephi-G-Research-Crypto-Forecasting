@@ -11,6 +11,7 @@ For submition Notebook will run on close data
 # Content
 
 ## Models
+Notebooks with ML models
 
 [0. NoML Model (0.99999)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/final-cheat.ipynb)
 
@@ -38,11 +39,13 @@ For submition Notebook will run on close data
 
 
 ## Visualisation
+Notebook with some research
 
 [Time series visualisation and research](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/time-series-research-just-visual.ipynb)
 
 
 ## Hyperparameters searching
+Notebooks with params finding code
 
 [1. Cat Boost](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/hyperparams/catboost-hyperparameters.ipynb)
 
