@@ -103,7 +103,7 @@ _The data submission was not on a file with predicted values, but by executing a
 - [ ] Focus on LGBM Research as the best score model
   - [x] 10k estimators @kciNik 2022-01-07
   - [ ] 15k estimators @kciNik 2022-01-07
-  - [ ] 12.5k estimators @grigorevmp -01-07
+  - [ ] 12.5k estimators @grigorevmp 2022-01-07
   - [x] 20k estimators @kciNik 2022-01-07
   - [ ] 10k estimators supplemental_train @grigorevmp 2022-01-07
   - [ ] 10k estimators supplemental_train reduced memory version @grigorevmp 2022-01-07
