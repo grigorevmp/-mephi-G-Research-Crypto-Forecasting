@@ -8,6 +8,13 @@ Run notebook with "Internet" turned off option and load it to Submition
 
 For submition Notebook will run on close data
 
+# Our team
+
+* Хисамутдинов Марат
+* Григорьев Михаил
+* Шарафутдинов Ренат
+* Московчук Анастасия
+
 # Content
 
 ## Models
