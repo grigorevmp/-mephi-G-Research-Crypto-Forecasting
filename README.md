@@ -78,9 +78,13 @@ _Notebooks with params finding code_
 # Best score
 
 _Most of first places use nonML solution, that give them the best score_
+
 _They published their solutions with **fake** 0.9999 score, but really has only close to 0 score on ml public notebooks (not -1 so - not great not terrible)_
+
 _We've also created similiar solution and submited it_
+
 _So we take 407th place (but all others has similar 0.9999 score and result depends on random close data batch)_
+
 _More legal solution gave us 0.7840 score and 468th place on LGBM Model_
 
 
