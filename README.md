@@ -105,8 +105,10 @@ _The data submission was not on a file with predicted values, but by executing a
   - [ ] 15k estimators @kciNik 2022-01-07
   - [x] 20k estimators @kciNik 2022-01-07
   - [ ] 15k estimators supplemental_train @grigorevmp 2022-01-07
-  - [ ] 15k estimators supplemental_train reduced @grigorevmp 2022-01-07
-- [ ] different hyperparameters analitics @marat1804 2022-01-07
+  - [ ] 15k estimators supplemental_train reduced memory version @grigorevmp 2022-01-07
+  - [ ] other estimators (depends on results) @grigorevmp @kciNik 2022-01-08
+- [ ] different hyperparameters analitics @moskovchuk @marat1804 2022-01-08
+- [ ] full models results analitics @marat1804 @grigorevmp 2022-01-09
 ### Theory part
 - [ ] markdown theory part @kciNik @moskovchuk 2022-01-09
 ### Exam
