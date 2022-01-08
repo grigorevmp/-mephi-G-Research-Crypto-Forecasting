@@ -12,10 +12,10 @@ _For submition Notebook will run on close data_
 
 # Our team
 
-* [Хисамутдинов Марат](https://github.com/marat1804)
-* [Григорьев Михаил](https://github.com/grigorevmp)
-* [Шарафутдинов Ренат](https://github.com/kciNik)
-* [Московчук Анастасия](https://github.com/moskovchuk)
+* [Khisamutdinov Marat](https://github.com/marat1804)
+* [Grigorev Mikhail](https://github.com/grigorevmp)
+* [Sharafutdinov Renat](https://github.com/kciNik)
+* [Moskovchuk Anastasiia](https://github.com/moskovchuk)
 
 # Content
 
@@ -87,9 +87,31 @@ _So we take 407th place (but all others has similar 0.9999 score and result depe
 
 _More legal solution gave us 0.7840 score and 468th place on LGBM Model_
 
+# Troubles.
+
+_The data submission was not on a file with predicted values, but by executing a notebook on the server side on a closed dataset. Due to the limitations on the number of launches, GPU/TPU time per week, and the limitation on the execution time, the iterative research process proved to be difficult. But we tried to optimally distribute roles and goals in the team so as not to waste time and attempts in vain._
 
 # Leaderboard screenshots
 
 ![Non ML](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/data/result.0.9999.jpg)
 
 ![ML](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/data/result_0.7840.jpg)
+
+# ToDo for last days
+
+### Models
+- [ ] Focus on LGBM Research as the best score model
+  - [x] 10k estimators @kciNik 2022-01-07
+  - [ ] 15k estimators @kciNik 2022-01-07
+  - [ ] 12.5k estimators @grigorevmp 2022-01-07
+  - [x] 20k estimators @kciNik 2022-01-07
+  - [ ] 10k estimators supplemental_train @grigorevmp 2022-01-07
+  - [ ] 10k estimators supplemental_train reduced memory version @grigorevmp 2022-01-07
+  - [ ] other estimators (depends on results) @grigorevmp @kciNik 2022-01-08
+- [ ] different hyperparameters analitics @moskovchuk @marat1804 2022-01-08
+- [ ] full models results analitics @marat1804 @grigorevmp 2022-01-09
+### Theory part
+- [ ] markdown theory part @kciNik @moskovchuk 2022-01-09
+### Exam
+- [ ] create powerful presentation @grigorevmp @kciNik 2022-01-08
+- [ ] pass the exam @grigorevmp @kciNik @moskovchuk @marat1804 2022-01-10
