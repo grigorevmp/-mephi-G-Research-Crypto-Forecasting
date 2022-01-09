@@ -30,21 +30,19 @@ _Notebooks with ML models_
 
 3. [XGBoost (0.0351)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/xgboost-regression-model.ipynb)
 
-4. [LSTM (0.0037)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/final-lstm.ipynb)
+4. [CatBoost (0.0034)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/final-catboost.ipynb)
 
-5. [CatBoost (0.0034)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/final-catboost.ipynb)
+5. [SVR Regression (-0.0015)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/svrregressor.ipynb)
 
-6. [SVR Regression (-0.0015)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/svrregressor.ipynb)
+6. [Elastic Net (-0.0020)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/elasticnet.ipynb)
 
-7. [Elastic Net (-0.0020)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/elasticnet.ipynb)
+7. [Lasso (-0.0020)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/lasso.ipynb)
 
-8. [Lasso (-0.0020)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/lasso.ipynb)
+8. [Ridge (-0.0020)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/ridge.ipynb)
 
-9. [Ridge (-0.0020)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/ridge.ipynb)
+9. [SGD Regressor (-0.0056)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/sgdregressor.ipynb)
 
-10. [SGD Regressor (-0.0056)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/sgdregressor.ipynb)
-
-11. [Polynomial regression (-1)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/poly-regression.ipynb)
+10. [Polynomial regression (-1)](https://github.com/grigorevmp/G-Research-Crypto-Forecasting/blob/main/models/poly-regression.ipynb)
 
 
 ## Visualisation
